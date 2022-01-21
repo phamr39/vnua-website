@@ -1,0 +1,27 @@
+<template>
+<main class="main">
+        <nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0">
+            <div class="container">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><router-link to="/">Trang chủ</router-link></li>
+                    <li class="breadcrumb-item active" aria-current="page">Quyền lợi</li>
+                </ol>
+            </div><!-- End .container -->
+        </nav><!-- End .breadcrumb-nav -->
+        <div class="container">
+            <div class="page-header text-center">
+                <h1 class="page-title text-white">QUYỀN LỢI ĐẠI LÝ - ĐỐI TÁC<span class="text-white"></span></h1>
+            </div><!-- End .page-header -->
+        </div><!-- End .container -->
+        <div class="page-content pb-0">
+            <div class="container">
+                <p>Nhằm đảm bảo cho chất lượng, uy tín thương hiệu và sản phẩm, tất cả Quý khách hàng đang hoạt động hoặc kinh doanh trong lĩnh vực liên quan đến làm đẹp như Spa, TMV, Trung tâm chăm sóc, Da liễu, Phòng khám, Bệnh viện,…đáp ứng được các tiêu chí tối thiểu từ phía công ty đều có thể trở thành Đại lý – Đối tác của VNUA Phytopharma trên phạm vi toàn quốc.</p><p>Quyền lợi chung dành cho các Đại lý – Đối tác của VNUA Phytopharma được xây dựng dựa trên các nguyên tắc và cơ sở:</p><ul><li>Tạo dựng mối quan hệ đối tác dài hạn.</li><li>Hợp tác trên cơ sở hoàn thiện mục tiêu.</li><li>Hợp tác trên cơ sở chia sẻ giá trị đến cộng đồng.</li><li>Hợp tác trên cơ sở nâng cao năng lực và thương hiệu.</li><li>Hợp tác trên cơ sở vì lợi ích của các bên.</li><li>Cập nhật thông tin và hỗ trợ kịp thời.</li><li>Cập nhật xu hướng và công nghệ hiện đại.</li><li>Chính sách công bằng và hợp lý trên toàn bộ kênh phân phối.</li><li>Bảo vệ quyền lợi tối đa cho Đại lý trước những biến động của thị trường và cạnh tranh.</li></ul><p><strong>1. Chiết khấu</strong></p><ul><li>Căn cứ vào giá trị Hợp đồng ủy quyền Đối tác – Đại lý phân phối và mức giá dành cho Đại lý được áp dụng, VNUA Phytopharma sẽ tính chiết khấu tương ứng.</li><li>Chính sách về giá được xây dựng để đảm bảo tính cạnh tranh và lợi nhuận tối đa cho Đại lý trên thị trường, nhưng vẫn đảm bảo được quyền lợi của Khách hàng.</li></ul><p><strong style="color: rgb(51, 51, 51);">2. Sản phẩm thưởng</strong></p><ul><li>Căn cứ vào số lượng từng loại Sản phẩm tại Hợp đồng ủy quyền Đối tác – Đại lý phân phối và mức Đại lý được áp dụng,  VNUA Phytopharma sẽ tính các mức thưởng tương ứng cho Đại lý. Mức thưởng tương ứng được quy đổi bằng sản phẩm.</li><li>Tùy vào phạm vi thực hiện Hợp Đồng của Đại lý, Công ty sẽ hỗ trợ các hoạt động sau</li></ul><p><strong style="color: rgb(51, 51, 51);">3. Chương trình khuyến mãi</strong></p><ul><li>Với mong muốn mang lại nhiều lợi ích cho Quý Đối tác – Đại lý, VNUA Phytopharma thường xuyên có các chương trình ưu đãi, khuyến mãi hoặc combo, phần quà đặc biệt tùy theo từng điều kiện cụ thể.</li></ul><p><strong>4. Chuyển giao kiến thức sản phẩm</strong></p><ul><li>Chuyển giao kiến thức Sản phẩm, những tình huống hỏi đáp đối với Sản phẩm… tạo điều kiện cho Đại lý bán hàng tốt nhất; bao gồm giáo trình, tài liệu,…</li><li><br></li></ul><p><strong>5. Chuyển giao c</strong><strong style="color: rgb(51, 51, 51);">ông nghệ</strong></p><p><br></p><ul><li>Chuyển giao công nghệ, quy trình ứng dụng sản phẩm, nhận biết và xử lý các rủi ro khi ứng dụng sản phẩm.</li></ul><p><strong>6. Khóa cập nhậ</strong><strong style="color: rgb(51, 51, 51);">t kiến thức</strong></p><p><br></p><ul><li>Tổ chức các khóa cập nhật kiến thức từ cơ bản đến nâng cao, các khóa chuyên đề, các buổi hội thảo miễn phí hoặc có thu phí tùy theo chương trình hoặc nội dung của chương trình.</li></ul><p><strong>7. Hỗ trợ Marketing</strong></p><p><br></p><ul><li>Tổ chức các lớp cập nhật kiến thức Marketing cho sản phẩm, dịch vụ, quy trình truyền thông.</li><li>Cung cấp tài liệu, công cụ bán hàng như hướng dẫn sử dụng Sản phẩm (tờ rơi, video), brochure, flyer,…Sổ tay bán hàng, sổ tay marketing,….</li><li>Hỗ trợ thông tin sản phẩm, dịch vụ đăng tải trên các kênh kỹ thuật số như website, các kênh truyền thông, thương mại điện tử,…</li><li>Hỗ trợ bảng hiệu, poster, standee, tent card,….</li><li>Quà tặng thương hiệu (thay đổi tuỳ theo chiến dịch).</li><li>Tổ chức các chương trình hội thảo, sự kiện giới thiệu Sản phẩm đến khách hàng nhằm thúc đẩy bán hàng tại khu vực.</li></ul><p><strong>8. Bảo vệ&nbsp;quyền lợi</strong></p><ul><li>Các Đối tác – Đại lý của VNUA Phytopharma được khuyến khích mở rộng thị trường để gia tăng lượng khách hàng và để trở thành các Đại lý lớn độc quyền phân phối tại các khu vực đã được quy hoạch trong hệ thống.</li><li>Hỗ trợ chuyển thông tin Khách hàng có nhu cầu sử dụng sản phẩm, dịch vụ tại khu vực của Đại lý về cho Đại lý truyền thông và bán hàng.</li></ul><p><strong>9. Chăm sóc và tri ân Đối tác – Đại l</strong><strong style="color: rgb(51, 51, 51);">ý</strong></p><ul><li>Các Đối tác – Đại lý của VNUA Phytopharma có cơ hội tham gia các chương trình tri ân, chăm sóc Khách hàng theo từng hoạt động do công ty tổ chức.</li></ul>
+            </div>
+        </div>
+</main>
+</template>
+<script>
+export default {
+    name: 'CustomPolicy',
+}
+</script>
